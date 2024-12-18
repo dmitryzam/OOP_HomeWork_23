@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include<iostream>
 #include<exception>
-#include<iomanip>
+#include<iomanip>	// для ф-ий setw и setfill
 // подкласс Часы:
 class Watch {
 public:
